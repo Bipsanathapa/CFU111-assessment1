@@ -2,16 +2,16 @@ body{
 background-color: yellowgreen;
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 20px;
-max-width:100px;
+max-width: width 800px;px;
 margin:0 auto;
 
 }
 h1{color: black;
 }
-p{
+h2{
     color: blue; 
 }
-.orangeparagraph{
+p{
     color:orange;
 }
 
